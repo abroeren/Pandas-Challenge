@@ -7,6 +7,6 @@ An analysis has been requested of the district-wide standardized test results wh
 
 The data is showing the following trends:
 
-1. Average reading scores in all grades and all schools are consistently between 80 and 85, while average math scores are consistent among all grades by school only as  average math scores rank in 83-range or 77-range, a difference of 6 points.
+1. Average scores by school for all grades are consistent and mostly around 83 points, but average math scores  show an average of 77 points for 7 out of 15 schools.
 2. The math plus reading passing percentage at smaller schools (less then 1,000 students) is 65% higher than at larger schools (2,000-5,000 students).
-3. Charter schools score significantly higher than district schools in every category reviewed.
+3. Charter schools score significantly higher than district schools in every category reviewed (90%-range versus 53%-range).
