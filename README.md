@@ -5,6 +5,8 @@ The purpose of this review is to anaylyze city school district data to help the 
 
 An analysis has been requested of the district-wide standardized test results which include every student's math and reading scores, as well as various information on the schools they attend. The purpose is to aggreate the data and determine obvious trends in school performance. 
 
+# TREND FINDINGS
+
 The data is showing the following trends:
 
 1. Average scores by school for all grades are consistent and mostly around 83 points, but average math scores  show an average of 77 points for 7 out of 15 schools.
